@@ -1,4 +1,4 @@
-# Composure Pre Alpha
+# Composure (Pre Alpha)
 
 Composure is an application that empowers you to create, tag, and find files and data.  
 
