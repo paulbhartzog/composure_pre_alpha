@@ -1,4 +1,4 @@
-# Composure (Pre Alpha)
+# Composure Pre Alpha
 
 Composure is an application that empowers you to create, tag, and find files and data.  
 
@@ -27,5 +27,5 @@ This section lists the current github repos related to this project.  This secti
 
 Planned repos:
 
-* repo for Composure ui design
+* repo for Composure ui design (if needed)
 * repo for Composure code (this pre-alpha repo currently)
