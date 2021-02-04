@@ -29,3 +29,7 @@ Planned repos:
 
 * repo for Composure ui design (if needed)
 * repo for Composure code (this pre-alpha repo currently)
+
+### Logo
+
+![Composure Logo](https://github.com/paulbhartzog/composure_pre_alpha/raw/main/img/composure_branded_sub_logo.jpg)
