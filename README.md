@@ -10,15 +10,14 @@ This document is a description of
 
 ### Pre Alpha
 
-The pre-alpha state will begin with the following tools
+You can view testing, progress, and roadmap at:
+https://github.com/paulbhartzog/composure_pre_alpha/projects/1
+
+The pre-alpha state will likely begin with the following tools
 
 * electron forge (boilerplate)
 * electron react boilerplate
 * bootstrap
-
-In order to beging coding features, the following tools will also be integrated
-
-* a React mock system to mock the nodejs back end
 * a testing suite (probably Spectron) for Test-Driven Development (TDD) 
 
 ### Github
