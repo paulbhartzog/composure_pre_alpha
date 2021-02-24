@@ -13,21 +13,17 @@ This document is a description of
 You can view testing, progress, and roadmap at:
 https://github.com/paulbhartzog/composure_pre_alpha/projects/1
 
-The pre-alpha state will likely begin with the following tools
+The current pre-alpha uses
 
 * electron forge (boilerplate)
-* electron react boilerplate
 * bootstrap
+* custom css to extend bootstrap
+
+The pre-alpha state will likely also include the following tools
+
+* electron react boilerplate
 * a testing suite (probably Spectron) for Test-Driven Development (TDD) 
 
-### Github
-
-This section lists the current github repos related to this project.  This section may be removed at a later date.
-
-Planned repos:
-
-* repo for Composure ui design (if needed)
-* repo for Composure code (this pre-alpha repo currently)
 
 ### Logo
 
