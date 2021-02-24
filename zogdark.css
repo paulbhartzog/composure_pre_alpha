@@ -1,0 +1,65 @@
+/* remember this file requires bootstrap css first */
+
+warning,
+success,
+error,
+info {
+  color: #fff;
+}
+
+body {
+  background-color: #2f2f2f;
+  color: #c6c6c6;
+  font-size: 12px;
+}
+
+h1 {
+  font-size: 2.25rem;
+}
+h2 {
+  font-size: 2rem;
+}
+h3 {
+  font-size: 1.75rem;
+}
+h4, .card-header {
+  font-size: 1.5rem;
+}
+h5 {
+  font-size: 1.25rem;
+}
+h6 {
+  font-size: 1rem;
+}
+
+.navbar-dark {
+  background-color: #fafafa;
+  background-color: #363636;
+  background-image: linear-gradient(to bottom, #444444, #222222);
+  border: 1px solid #030303;
+  border-color: #080808;
+  padding: .25rem 1rem;
+}
+
+
+.well {
+  background-color: #202020;
+  background-color: rgba(0, 0, 0, 0.3);
+  border: 0;
+  -moz-box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0 inset;
+  -webkit-box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0 inset;
+  box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0 inset;
+}
+
+pre {
+  border: none;
+  color: #c6c6c6;
+  padding: 8px;
+}
+
+p {
+  border: none;
+  color: #c6c6c6;
+  padding: 8px;
+}
+
